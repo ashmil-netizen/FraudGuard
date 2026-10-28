@@ -348,3 +348,5 @@ These are measured results for this simulated dataset and this temporal split;
 they do not establish effectiveness on real financial activity. The saved
 model is reloaded by the evaluator and validated against its PaySim identifier,
 model type, and exact ordered feature schema.
+
+colab - https://colab.research.google.com/drive/1fbDJ7tfJOWx4I8BETOuMyNIDDYoFMt8-?usp=sharing
