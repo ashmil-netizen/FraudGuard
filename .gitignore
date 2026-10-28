@@ -1,0 +1,26 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+node_modules/
+frontend/dist/
+.tsupgrader/
+**/.env
+**/.env.*
+!**/.env.example
+*.sqlite3
+*.log
+.DS_Store
+Thumbs.db
+
+# KaggleHub downloads and generated data must stay local.
+backend/data/raw/
+backend/data/processed/
+backend/models/
+backend/reports/
+
+# Local Kaggle credentials.
+.kaggle/
+kaggle.json
